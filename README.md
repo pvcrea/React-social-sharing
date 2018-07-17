@@ -1,7 +1,7 @@
 # React-social-sharing
 ```
 import React from 'react';
-import SocialSharing from '@tmg/react-social-sharing';
+import SocialSharing from 'react-social-sharing';
 
 <SocialSharing
   className={styles.sharingList}
