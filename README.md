@@ -2,7 +2,7 @@
 
 import React from 'react';
 import SocialSharing from '@tmg/react-social-sharing';
-
+```
 <SocialSharing
   className={styles.sharingList}
   title={title}
@@ -17,3 +17,4 @@ import SocialSharing from '@tmg/react-social-sharing';
     className: css(styles.shareIcon, styles.whatsappColor)
   }}
 />
+```
